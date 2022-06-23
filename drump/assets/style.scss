@@ -151,6 +151,12 @@ html {
     html {
         font-size: 80%;
     }
+
+    .band {
+        h1 {
+            top: 0;
+        }
+    }
 }
 
 @media(max-width: 575px) {
